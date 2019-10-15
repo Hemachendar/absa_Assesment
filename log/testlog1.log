@@ -1,0 +1,52 @@
+2019-10-15 19:30:21,013 [main] INFO Absa - Cliecked in Adduser link
+2019-10-15 19:30:21,187 [main] INFO Absa - Enter the user First name: FName1
+2019-10-15 19:30:21,271 [main] INFO Absa - Enter the user Last name : LName1
+2019-10-15 19:30:21,348 [main] INFO Absa - Enter the user name : User1
+2019-10-15 19:30:21,414 [main] INFO Absa - Enter the password : Pass1 
+2019-10-15 19:30:21,688 [main] INFO Absa - Select the Customer : AAACompany 
+2019-10-15 19:30:22,415 [main] INFO Absa - Select the role : Admin
+2019-10-15 19:30:22,637 [main] INFO Absa - Enter Email : admin@mail.com
+2019-10-15 19:30:22,717 [main] INFO Absa - Enter mobilenumber : 082555
+2019-10-15 19:30:23,008 [main] INFO Absa - Cleck the Save button
+2019-10-15 19:30:23,291 [main] INFO Absa - Search Added user name on the Textbox in : Fname
+2019-10-15 19:30:31,454 [main] INFO Absa - Cliecked in Adduser link
+2019-10-15 19:30:31,604 [main] INFO Absa - Enter the user Last name : FName2
+2019-10-15 19:30:31,689 [main] INFO Absa - Enter the user name : LName2
+2019-10-15 19:30:31,779 [main] INFO Absa - Enter the user name : User2
+2019-10-15 19:35:17,880 [main] INFO Absa - Cliecked in Adduser link
+2019-10-15 19:35:18,036 [main] INFO Absa - Enter the user First name: FName1
+2019-10-15 19:35:18,132 [main] INFO Absa - Enter the user Last name : LName1
+2019-10-15 19:35:18,215 [main] INFO Absa - Enter the user name : User1
+2019-10-15 19:35:18,315 [main] INFO Absa - Enter the password : Pass1 
+2019-10-15 19:35:18,640 [main] INFO Absa - Select the Customer : AAACompany 
+2019-10-15 19:35:19,091 [main] INFO Absa - Select the role : Admin
+2019-10-15 19:35:19,254 [main] INFO Absa - Enter Email : admin@mail.com
+2019-10-15 19:35:19,345 [main] INFO Absa - Enter mobilenumber : 082555
+2019-10-15 19:35:19,643 [main] INFO Absa - Cleck the Save button
+2019-10-15 19:35:19,828 [main] INFO Absa - Search Added user name on the Textbox in : Fname
+2019-10-15 19:35:28,097 [main] INFO Absa - Cliecked in Adduser link
+2019-10-15 19:35:28,255 [main] INFO Absa - Enter the user Last name : FName2
+2019-10-15 19:35:28,337 [main] INFO Absa - Enter the user name : LName2
+2019-10-15 19:35:28,433 [main] INFO Absa - Enter the user name : User2
+2019-10-15 19:41:00,295 [main] INFO Absa - Cliecked in Adduser link
+2019-10-15 19:41:00,453 [main] INFO Absa - Enter the user First name: FName1
+2019-10-15 19:41:00,538 [main] INFO Absa - Enter the user Last name : LName1
+2019-10-15 19:41:00,611 [main] INFO Absa - Enter the user name : User1
+2019-10-15 19:41:00,692 [main] INFO Absa - Enter the password : Pass1 
+2019-10-15 19:41:00,992 [main] INFO Absa - Select the Customer : AAACompany 
+2019-10-15 19:41:01,408 [main] INFO Absa - Select the role : Admin
+2019-10-15 19:41:01,539 [main] INFO Absa - Enter Email : admin@mail.com
+2019-10-15 19:41:01,605 [main] INFO Absa - Enter mobilenumber : 082555
+2019-10-15 19:41:01,894 [main] INFO Absa - Cleck the Save button
+2019-10-15 19:41:01,986 [main] INFO Absa - Search Added user name on the Textbox in : Fname
+2019-10-15 19:41:10,390 [main] INFO Absa - Cliecked in Adduser link
+2019-10-15 19:41:10,772 [main] INFO Absa - Enter the user Last name : FName2
+2019-10-15 19:41:10,861 [main] INFO Absa - Enter the user name : LName2
+2019-10-15 19:41:10,962 [main] INFO Absa - Enter the user name : User2
+2019-10-15 19:41:11,031 [main] INFO Absa - Enter the password : Pass2 
+2019-10-15 19:41:11,332 [main] INFO Absa - Select the Customer : BBBCompany 
+2019-10-15 19:41:11,820 [main] INFO Absa - Select the role : Customer
+2019-10-15 19:41:11,945 [main] INFO Absa - Enter Email : Cusomter@mail.com
+2019-10-15 19:41:12,016 [main] INFO Absa - Enter mobilenumber : 082444
+2019-10-15 19:41:12,311 [main] INFO Absa - Cleck the Save button
+2019-10-15 19:41:12,398 [main] INFO Absa - Search Added user name on the Textbox in : Fname
